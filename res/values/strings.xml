@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_str">The Powerbase</string>
+    <string name="site_name_str">The Powerbase</string>
+    <string name="site_url_str">http://www.thepowerbase.com</string>
+    <string name="feed_url_str">http://www.thepowerbase.com/feed</string>
+    <string name="try_json">1</string>
+    <string name="share_message">Check out this article on The Powerbase</string>
+</resources>
